@@ -36,8 +36,8 @@
     --radius: 0.5rem;
   }
 
-  /* TODO: change back to ".dark" once light/dark mode toggle is implemented */
-  :root {
+  /* TODO: change back to ".dark" once light/dark mode toggle is implemented VS ":root" */
+  .dark {
     --background: 222.2 84% 4.9%;
     --foreground: 210 40% 98%;
 
