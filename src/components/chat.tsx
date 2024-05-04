@@ -13,6 +13,7 @@ export default function Chat() {
 
   // TODO: Customize the scrollbar styling
   // TODO: Implement RAG w/ LangChain
+  // TODO: Add transition delay when toggling theme
 
   useEffect(() => {
     const domNode = chatParent.current;
